@@ -10,7 +10,6 @@
 
 * Descripción: 
 
-
 Se trata de una Web tipo blog realizada utilizando el framework de Django como proyecto final del curso de Python en CoderHouse.
 
 ===============================================
@@ -30,7 +29,6 @@ Una vez inicializada la aplicación, el usuario tendrá disponible la URL de Ini
 
 * Módulos y Especificaciones: 
 
-
 Este Portal cuenta con cuatro Módulos: Posts, About Me, Mensajes y Profile. 
 
 El modulo Posts se puede acceder sin la necesidad de estar logueado. Una vez seleccionada esta opción nos llevara a la página que muestra el listado de los Posts cargados en el Portal. 
@@ -47,7 +45,6 @@ Si seleccionamos un mensaje en particular la aplicación lo marcara automáticam
 En cambio cuando ingresamos a los mensajes enviados solo tendremos la opcion de leerlos. 
 
 Cabe destacar que este módulo puede accederse únicamente estando Logueado en el sistema. 
-
 
 
 El módulo Perfil cuenta con cuatro opciones: registración, buscar, listar y editar Profile. 
